@@ -51,3 +51,6 @@ Arrays = object
 Function = function
 Object= object
  */
+
+
+// STACK (primitive) HEAP(non-primitive)
