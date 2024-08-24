@@ -65,7 +65,7 @@ const course = {
 
 // course.courseInstructor
 
-const {courseInstructor: instructor} = course
+const {courseInstructor: instructor} = course //it you want to rename the key then it can done as shown
 
 // console.log(courseInstructor);
 console.log(instructor);
