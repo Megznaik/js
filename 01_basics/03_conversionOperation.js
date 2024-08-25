@@ -46,10 +46,10 @@ let str2 = " Megha"
 let str3 = str1 + str2
 // console.log(str3);
 
-// console.log("1" + 2);
-// console.log(1 + "2");
-// console.log("1" + 2 + 2);
-// console.log(1 + 2 + "2");
+// console.log("1" + 2); //o/p is 12
+// console.log(1 + "2"); // o/p is 12
+// console.log("1" + 2 + 2); // o/p is 122
+// console.log(1 + 2 + "2"); // o/p is 32
 
 // console.log( (3 + 4) * 5 % 3);
 
