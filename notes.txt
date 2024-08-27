@@ -1,0 +1,2 @@
+How does javascript execute the code?
+learn from the youtube video of chaiaurcode video#25
