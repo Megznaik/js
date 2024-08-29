@@ -9,6 +9,9 @@ for (const num of arr) {
     //console.log(num);
 }
 
+//---IMP- for-of: in above case, it is will o/p as the values of array and not index of array.
+//but going ahead you will learn about for-in. check the difference there.
+
 const greetings = "Hello world!"
 for (const greet of greetings) {
     //console.log(`Each char is ${greet}`)
