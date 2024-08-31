@@ -9,6 +9,8 @@
 // console.log(values); ??--IMP--- foreach can't return any value. And also, it does not store value in the variable. 
 
 const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+//const newNums = myNums.filter( (num) => num > 4)
+//console.log(newNums) //---IMP--- filter is use to return the value
 
 // const newNums = myNums.filter( (num) => {
 //     return num > 4
